@@ -1,0 +1,9 @@
+{
+  "build": {
+    "builder": "NIXPACKS",
+    "buildCommand": "cd tweetly-backend && npm install"
+  },
+  "start": {
+    "cmd": "cd tweetly-backend && npm start"
+  }
+}
